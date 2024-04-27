@@ -1,0 +1,14 @@
+.cambiame {
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    font: 24px Arial, sans-serif;
+}
+
+
+#moverArriba,
+#moverAbajo,
+#color,
+#desaparecer {
+    padding: 5px;
+}
